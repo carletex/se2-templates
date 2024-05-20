@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "react-minimal-pie-chart": "~8.4.0"
+    "@apollo/client": "~3.9.4",
+    "graphql": "~16.8.1"
   }
 }
